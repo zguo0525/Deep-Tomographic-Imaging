@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repo, please cite it as below."
+authors:
+- family-names: "Guo"
+  given-names: "Zhen"
+  orcid: "https://orcid.org/0000-0002-1347-3451"
+title: "Deep-Tomographic-Imaging"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-05-09
+url: "https://github.com/zguo0525/Deep-Tomographic-Imaging"
